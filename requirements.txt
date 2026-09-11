@@ -1,0 +1,4 @@
+discord.py==2.7.1
+aiohttp==3.11.11
+psycopg[binary]>=3.2,<4
+cryptography>=44,<47

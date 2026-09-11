@@ -1,0 +1,31 @@
+{
+  "discord": {
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "guild_id": null,
+    "log_channel_id": null,
+    "owner_user_ids": [],
+    "allowed_user_ids": [],
+    "allowed_user_expirations": {}
+  },
+  "woolix": {
+    "api_key": "YOUR_WOOLIX_API_KEY",
+    "base_url": "https://woolix.net",
+    "api_timeout_seconds": 30,
+    "draft_timeout_seconds": 180,
+    "settlement_timeout_seconds": 180,
+    "poll_interval_seconds": 1.5
+  },
+  "bot": {
+    "name": "OVIO DD",
+    "maintenance": false,
+    "maintenance_message": "OVIO DD is being updated. Please try again soon.",
+    "success_webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+  },
+  "database": {
+    "url": "postgresql://USER:PASSWORD@HOST:PORT/DATABASE"
+  },
+  "tracking": {
+    "base_url": "https://food-order-tracker.up.railway.app/",
+    "slug_secret": "BASE64URL_ENCODED_32_BYTE_KEY"
+  }
+}
