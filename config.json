@@ -1,9 +1,9 @@
 {
   "discord": {
-    "token": "MTU0Mzc1MTc5OTE0NjgwNzM2Ng.GYVtVv.HE2U1OQVB8nR07pjCJ8xNvlFM6Mc28rRy2CnPI",
-    "guild_id": 1540789125442175069,
-    "log_channel_id": 1519864975164965001,
-    "owner_user_ids": [570208906333257745, 664560958672207914, 1146983547895304297],
+    "token": "MTU0ODAyOTU1NzEyOTQ4NjM1Ng.Gq71Yj.cwIaR0dwlUlJDIXJpV6O6XMNv-ogmu5f_lNjV4",
+    "guild_id": 1544208432226377852,
+    "log_channel_id": 1545908696427798569,
+    "owner_user_ids": [664560958672207914, 664560958672207914, 1146983547895304297]
     "allowed_user_ids": [],
     "allowed_user_expirations": {}
   },
@@ -25,7 +25,7 @@
     "url": "postgresql://postgres:kPKZVRLgVeUGpJyIXObmASPlSeAYuZvj@altaria.proxy.rlwy.net:56312/railway"
   },
   "tracking": {
-    "base_url": "https://food-order-tracker.up.railway.app/",
+    "base_url": "https://succint-tracker.up.railway.app/",
     "slug_secret": "tX0I51J5SXfvf30sLYXJeqBWXH85dnmsrgrvETZoH7U"
   }
 }
